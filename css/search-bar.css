@@ -1,0 +1,17 @@
+/*
+Saerch Bar
+---------------------------------------------------------------------------------------------------- */
+
+#searchform{
+	margin: 7px;
+}
+
+#searchform-item input[type="text"] {
+	width: auto;
+}
+
+@media screen and (max-width: 650px) {
+	#searchform{
+		margin: 0;
+	}
+}
